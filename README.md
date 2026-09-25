@@ -73,14 +73,14 @@ Since this repository is managed using a Cargo Workspace, you can run commands d
   - [x] 1.3 Hello, Cargo! (`hello_cargo`)
 - [x] **Chapter 2: Programming a Guessing Game** (`ch02_guessing_game`)
   - [x] 2.0 Programming a Guessing Game (`guessing_game`)
-- [ ] **Chapter 3: Common Programming Concepts** (`ch03_common_concepts`)
+- [x] **Chapter 3: Common Programming Concepts** (`ch03_common_concepts`)
   - [x] 3.1 Variables and Mutability (`variables`)
   - [x] 3.2 Data Types (`variables`)
   - [x] 3.3 Functions (`functions`)
   - [x] 3.4 Comments
   - [x] 3.5 Control Flow
 - [ ] **Chapter 4: Understanding Ownership** (`ch04_understanding_ownership`)
-  - [ ] 4.1 What is Ownership?
+  - [x] 4.1 What is Ownership?
   - [ ] 4.2 References and Borrowing
   - [ ] 4.3 The Slice Type
 - [ ] **Chapter 5: Using Structs to Structure Related Data** (`ch05_structs`)

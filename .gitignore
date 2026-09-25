@@ -3,7 +3,7 @@ target/
 **/target/
 
 # Direct rustc compiled binaries (from standalone exercises)
-hello_world/main
+**/hello_world/main
 *.exe
 *.pdb
 

@@ -4,5 +4,5 @@ members = [
     "ch01_getting_started/hello_cargo",
     "ch02_guessing_game",
     "ch03_common_concepts/variables",
-    "ch03_common_concepts/functions",
+    "ch03_common_concepts/functions", "ch03_common_concepts/control_flow",
 ]

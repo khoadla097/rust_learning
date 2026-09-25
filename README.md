@@ -76,7 +76,7 @@ Since this repository is managed using a Cargo Workspace, you can run commands d
 - [ ] **Chapter 3: Common Programming Concepts** (`ch03_common_concepts`)
   - [x] 3.1 Variables and Mutability (`variables`)
   - [x] 3.2 Data Types (`variables`)
-  - [ ] 3.3 Functions (`functions`)
+  - [x] 3.3 Functions (`functions`)
   - [ ] 3.4 Comments
   - [ ] 3.5 Control Flow
 - [ ] **Chapter 4: Understanding Ownership** (`ch04_understanding_ownership`)

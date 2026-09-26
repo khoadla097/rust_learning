@@ -79,10 +79,10 @@ Since this repository is managed using a Cargo Workspace, you can run commands d
   - [x] 3.3 Functions (`functions`)
   - [x] 3.4 Comments
   - [x] 3.5 Control Flow
-- [ ] **Chapter 4: Understanding Ownership** (`ch04_understanding_ownership`)
+- [x] **Chapter 4: Understanding Ownership** (`ch04_understanding_ownership`)
   - [x] 4.1 What is Ownership?
-  - [ ] 4.2 References and Borrowing
-  - [ ] 4.3 The Slice Type
+  - [x] 4.2 References and Borrowing
+  - [x] 4.3 The Slice Type
 - [ ] **Chapter 5: Using Structs to Structure Related Data** (`ch05_structs`)
   - [ ] 5.1 Defining and Instantiating Structs
   - [ ] 5.2 An Example Program Using Structs
